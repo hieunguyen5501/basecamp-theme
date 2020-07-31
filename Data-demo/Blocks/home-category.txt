@@ -1,0 +1,14 @@
+Block Title: Home Category 
+Identifier: home-category
+Store View: All Store View
+
+Content
+
+
+<div class="category">
+<div class="item-category cat1"><img src="{{media url="wysiwyg/cat1.jpg"}}" alt=""><a href="http://127.0.0.1:81/basecamp/camping.html">Camping</a></div>
+<div class="item-category cat2"><img src="{{media url="wysiwyg/cat2.jpg"}}" alt=""><a href="http://127.0.0.1:81/basecamp/hiking.html">Hiking</a></div>
+<div class="item-category cat3"><img src="{{media url="wysiwyg/cat3.jpg"}}" alt=""><a href="http://127.0.0.1:81/basecamp/packs.html">Packs</a></div>
+<div class="item-category cat4"><img src="{{media url="wysiwyg/cat4.jpg"}}" alt=""><a href="http://127.0.0.1:81/basecamp/climbing.html">Climbing</a></div>
+<div class="item-category cat5"><img src="{{media url="wysiwyg/cat5.jpg"}}" alt=""><a href="http://127.0.0.1:81/basecamp/fitness.html">Fitness</a></div>
+</div>

@@ -1,0 +1,40 @@
+Block Title: Home Promotion 
+Identifier: home-promotion
+Store View: All Store View
+
+Content
+
+
+<div class="promotion">
+<div class="promo1"><img src="{{media url="wysiwyg/promo1.jpg"}}" alt="">
+<div class="promo-content">
+<p>Summer offers</p>
+</div>
+</div>
+<div class="promo2"><img src="{{media url="wysiwyg/promo2.jpg"}}" alt="">
+<div class="promo-content">
+<p>Holiday offers</p>
+<a>Explore now</a></div>
+</div>
+<div class="promo3"><img src="{{media url="wysiwyg/promo3.jpg"}}" alt="">
+<div class="promo-content">
+<p>Half Price</p>
+</div>
+</div>
+<div class="promo4"><img src="{{media url="wysiwyg/promo4.jpg"}}" alt="">
+<div class="promo-content">
+<p>Ruck Sack</p>
+<a>Offer price</a></div>
+</div>
+<div class="promo5"><img src="{{media url="wysiwyg/promo5.jpg"}}" alt="">
+<div class="promo-content">
+<p>Climbing equipment</p>
+<a>Buy now</a></div>
+</div>
+<div class="promo6"><img src="{{media url="wysiwyg/promo6.jpg"}}" alt="">
+<div class="promo-content">
+<p>Travel essentials</p>
+<a>Shop now</a></div>
+</div>
+</div>
+
