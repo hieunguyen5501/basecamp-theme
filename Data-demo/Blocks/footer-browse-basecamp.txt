@@ -1,0 +1,20 @@
+Block Title: Footer Browse Basecamp
+Identifier: footer-browse-basecamp
+Store View: All Store View
+
+Content
+
+<h4>Browse Basecamp</h4>
+<div class="footer-col-content">
+	<ul>
+		<li><a href="/about-us">About Us</a></li>
+		<li><a href="#">Basecamp Gift Voucgers</a></li>
+		<li><a href="#">Basecamp Membership</a></li>
+		<li><a href="/catalogsearch/advanced/">Advanced Search</a></li>
+		<li><a href="#">Group Sales &amp; Bulk Order</a></li>
+		<li><a href="#">Jobs-Sitemap</a></li>
+		<li><a href="/contact">Contact Us</a></li>
+		<li><a href="#">Dublin Simon Community</a></li>
+		<li><a href="#">Camino Kit Lis</a></li>
+	</ul>
+</div> 

@@ -1,0 +1,14 @@
+Block Title: Footer Stay Connected
+Identifier: footer-stay-connected
+Store View: All Store View
+
+Content
+
+<h4>Stay Connected</h4>
+<div class="footer-col-content">
+	<ul class="list-icon">
+		<li><a><img src="{{media url="icon_footer/iconfinder_Facebook_381389.png"}}" alt=""></a></li>
+		<li><a><img src="{{media url="icon_footer/iconfinder_Twitter_381374.png"}}" alt=""></a></li>
+		<li><a><img src="{{media url="icon_footer/iconfinder_Email_2062072.png"}}" alt=""></a></li>
+	</ul>
+</div>

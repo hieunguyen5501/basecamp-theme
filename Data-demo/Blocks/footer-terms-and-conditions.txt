@@ -1,0 +1,19 @@
+Block Title: Footer Terms And Conditions
+Identifier: footer-terms-and-conditions
+Store View: All Store View
+
+Content
+
+<h4>Terms And Conditions</h4>
+<div class="footer-col-content">
+	<ul>
+		<li><a href="#">Customer Service</a></li>
+		<li><a href="#">Shipping Method</a></li>
+		<li><a href="#">Delivery</a></li>
+		<li><a href="#">Returns Policy</a></li>
+		<li><a href="#">Payment Information</a></li>
+		<li><a href="#">Enviromental Responsibility</a></li>
+		<li><a href="#">Privacy Policy</a></li>
+		<li><a href="#">Privacy Statement</a></li>
+	</ul>
+</div>

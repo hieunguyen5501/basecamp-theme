@@ -1,0 +1,16 @@
+Block Title: Footer My Account
+Identifier: footer-my-account
+Store View: All Store View
+
+Content
+
+<h4>My Account</h4>
+<div class="footer-col-content">
+	<ul>
+		<li><a href="customer/account/login">Sign In</a></li>
+		<li><a href="customer/account">Account Settings</a></li>
+		<li><a href="checkout/cart/">View Cart</a></li>
+		<li><a href="wishlist">My Wishlist</a></li>
+		<li><a href="#">My Compared Products</a></li>
+	</ul>
+</div> 

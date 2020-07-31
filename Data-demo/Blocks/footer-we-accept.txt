@@ -1,0 +1,16 @@
+Block Title: We Accept
+Identifier: footer-we-accept
+Store View: All Store View
+
+Content
+
+<h4>We Accept</h4>
+<div class="footer-col-content">
+	<ul class="list-icon">
+		<li><img src="{{media url="icon_footer/visa-cart-logo.png"}}" alt=""></li>
+		<li><img src="{{media url="icon_footer/master_payment_card_method_icon_icon.png"}}" alt=""></li>
+		<li><img src="{{media url="icon_footer/iconfinder_7_credit_2629948.png"}}" alt=""></li>
+		<li><img src="{{media url="icon_footer/iconfinder_16_Amex_Credit_Card_logo_logos_4373073.png"}}" alt=""></li>
+		<li><img src="{{media url="icon_footer/iconfinder_29_credit_2629950.png"}}" alt=""></li>
+	</ul>
+</div>

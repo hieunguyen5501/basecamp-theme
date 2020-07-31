@@ -1,0 +1,31 @@
+Block Title: Footer We Are Located At
+Identifier: footer-we-are-located-at
+Store View: All Store View
+
+Content
+
+<h4>We Are Located At:</h4>
+<div class="footer-col-content">
+	<div class="dublin-address">
+		<ul class="address">
+			<li>Bublin Address</li>
+			<li><a href="#">Basecamp 108-109</a></li>
+			<li><a href="#">Middle Abbey Street</a></li>
+			<li><a href="#">Dublin 1</a></li>
+		</ul>
+		<ul class="telphone-email">
+			<li><a href="tel:35314430800">Telephone: +353 1 443 0800</a></li>
+			<li><a href="mailto:info@basecamo.ie">Email: info@basecamo.ie</a></li>
+		</ul>
+	</div>
+	<div class="kilkenny-address">
+		<ul class="address">
+			<li>Kilkenny Address</li>
+			<li><a href="#">Basecamp 79 Hight St, Kilkenny</a></li>
+		</ul>
+		<ul class="telphone-email">
+			<li><a href="tel:35314430800">Telephone: +353 1 443 0800</a></li>
+			<li><a href="mailto:info@basecamo.ie">Email: kilkenny@basecamo.ie</a></li>
+		</ul>
+	</div>
+</div>
