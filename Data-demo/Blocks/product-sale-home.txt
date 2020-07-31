@@ -1,0 +1,12 @@
+Block Title: Product Sale Home 
+Identifier: product-sale-home
+Store View: All Store View
+
+Content
+
+
+<div class="best-sale-product-home-title">
+<h2>Basecamp’s Bestselle</h2>
+<p>We sell a wide range of products such as outdoor clothing, camping climbing gear</p>
+</div>
+<p>{{widget type="Magento\CatalogWidget\Block\Product\ProductsList" show_pager="0" products_count="5" template="Magento_CatalogWidget::product/widget/content/grid.phtml" cache_lifetime="3600" conditions_encoded="^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^],`1--1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Product`,`attribute`:`category_ids`,`operator`:`==`,`value`:`43`^]^]"}}</p>
