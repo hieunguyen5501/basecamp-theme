@@ -1,0 +1,15 @@
+Block Title: rectangle
+Identifier: rectangle
+Store view: all store view
+
+CODE
+
+
+<div class="page-main">
+<div class="rectangle1 ">
+<div class="one"><img src="{{media url="wysiwyg/ireland_1_.png"}}" alt="" width="25" height="25"> &nbsp;<strong>&nbsp;Free&nbsp; </strong>Delivery in Ireland on Orders Over&nbsp; €30</div>
+<div class="one"><img src="{{media url="wysiwyg/iconconvert.png"}}" alt="" width="25" height="23"> &nbsp; Easy &amp; Hassle Free Return</div>
+<div class="one"><img src="{{media url="wysiwyg/iconyear_1.png"}}" alt="">&nbsp; 1 Year Limited Warrangty</div>
+<div class="one"><img src="{{media url="wysiwyg/iconcar_4.png"}}" alt="" width="41" height="21">&nbsp;Fast Tracked Delivery</div>
+</div>
+</div>
