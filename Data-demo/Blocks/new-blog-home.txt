@@ -1,0 +1,31 @@
+Block Title: New Blog Home 
+Identifier: new-blog-home
+Store View: All Store View
+
+Content
+
+
+<div class="new-blog">
+<p class="new-blog-title">News</p>
+<div class="new-blog-home">
+<div class="new-blog-home-left blog-effect"><a href="#"><img src="{{media url="wysiwyg/home/new-left.png"}}" alt=""></a></div>
+<div class="new-blog-home-right">
+<div class="content-blog">
+<div class="content-blog-img blog-effect"><a href="#"><img src="{{media url="wysiwyg/home/new-right1.png"}}" alt=""></a></div>
+<div class="content-blog-text">
+<h3><a href="#">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</a></h3>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+<p><a href="#">More</a></p>
+</div>
+</div>
+<div class="content-blog">
+<div class="content-blog-img blog-effect"><a href="#"><img src="{{media url="wysiwyg/home/new-right2.png"}}" alt=""></a></div>
+<div class="content-blog-text">
+<h3><a href="#">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</a></h3>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
+<p><a href="#">More</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
