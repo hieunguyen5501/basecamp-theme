@@ -1,0 +1,19 @@
+Block Title: Home Page Brand
+Identifier: home-page-brand
+Store view: all store view
+
+CODE
+
+
+<div class="home-brand">
+<div class="home-brand-img">
+<div><img src="{{media url="wysiwyg/columbia.jpg"}}" alt=""></div>
+<div><img src="{{media url="wysiwyg/contigo.jpg"}}" alt=""></div>
+<div><img src="{{media url="wysiwyg/aku.jpg"}}" alt=""></div>
+<div><img src="{{media url="wysiwyg/berghaus.jpg"}}" alt=""></div>
+<div><img src="{{media url="wysiwyg/block-diamond.jpg"}}" alt=""></div>
+<div><img src="{{media url="wysiwyg/bridgedale.jpg"}}" alt=""></div>
+<div><img src="{{media url="wysiwyg/buff.jpg"}}" alt=""></div>
+<div><img src="{{media url="wysiwyg/camelbak.jpg"}}" alt=""></div>
+</div>
+</div>

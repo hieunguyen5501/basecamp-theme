@@ -1,0 +1,21 @@
+Block Title: Cart Information
+Identifier: cart-information
+Store view: all store view
+
+CODE
+
+
+<div class="cart-information">
+<div class="delivery-information">
+<p>Delivery Information</p>
+<p>Standard Delivery and Collect In Store take 3-5 working days.</p>
+<p>Next Day Deliveries arrive between 8am and 10pm, excluding remote areas(click for more</p>
+</div>
+<div class="shopping-information">
+<p>Safe and Easy Shopping Information</p>
+<p>If you have any questions about your order, we`ll be more than happy to assist you. Please Contact Us or call us on 0161 3937059. Quote Basket Referrence: 2706-788-123.</p>
+<p><a href="#top">Delivery Information</a></p>
+<p><a href="#top">Return Policy</a></p>
+<p><a href="#top">Terms &amp; Conditions</a></p>
+</div>
+</div>

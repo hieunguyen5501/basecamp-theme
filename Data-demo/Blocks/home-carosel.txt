@@ -1,0 +1,14 @@
+Block Title: Home Category
+Identifier: home-category
+Store view: all store view
+
+CODE
+
+
+<div class="category">
+<div class="item-category cat1"><img src="{{media url="wysiwyg/cat1.jpg"}}" alt=""><a>Camping</a></div>
+<div class="item-category cat2"><img src="{{media url="wysiwyg/cat2.jpg"}}" alt=""><a>Hiking</a></div>
+<div class="item-category cat3"><img src="{{media url="wysiwyg/cat3.jpg"}}" alt=""><a>Packs</a></div>
+<div class="item-category cat4"><img src="{{media url="wysiwyg/cat4.jpg"}}" alt=""><a>Climbing</a></div>
+<div class="item-category cat5"><img src="{{media url="wysiwyg/cat5.jpg"}}" alt=""><a>Fitness</a></div>
+</div>
