@@ -1,0 +1,116 @@
+	.lib-font-face(
+		@family-name: @font-family-name__caveat,
+		@font-path: "@{baseDir}fonts/CaveatBrush-Regular",
+		@font-weight: 300,
+		@font-style: normal,
+		@font-display: swap
+		);
+
+	@font-family-name__caveat: "CaveatBrush-Regular";
+	@font-family__caveat: @font-family-name__caveat, cursive;
+
+	& when (@media-common = true) {
+		.home-page-owl-carousel{
+			&:hover .owl-nav button{
+			   display: block;
+			}
+			.item{
+				position: relative;
+				.item-content{
+					position: absolute;
+					top: 25%;
+					left: 18%;
+					transform: rotate(-7deg);  
+					font-family: @font-family__caveat;
+					text-transform: uppercase;
+					text-align: center;
+				}
+
+				p{
+					font-size: 73px;
+					line-height: 60px;
+					.lib-css(color, @color-white);
+				}
+				a{
+					font-size: 30px;
+					line-height: 0px;
+					cursor: pointer;
+					.lib-css(color, @color-red10);
+				}
+			}
+
+			.carousel-wrap {
+				position: relative;
+			}
+
+			/* fix blank or flashing items on carousel */
+			.owl-carousel .item {
+				position: relative;
+				z-index: 100; 
+				-webkit-backface-visibility: hidden; 
+			}
+
+			/* end fix */
+			.owl-nav{
+				& > button {
+					position: absolute;
+					top: 50%;
+					transform: translateY(-50%);
+					.lib-css(color, @color-gray62);
+					box-shadow: none;
+					opacity: .5;
+					display: none;
+					&:hover{
+						opacity: 1;
+					}
+				}
+				& i {
+					font-size: 82px;
+				}
+
+				& .owl-prev {
+					left: 20px;
+				}
+
+				& .owl-next {
+					right: 20px;
+				}
+			}
+		}
+
+
+
+	//
+	// Tablets 
+	// _____________________________________________
+
+	@media only screen and (max-width: @screen__m) {
+		.home-page-owl-carousel{
+			.item{
+				p {
+					font-size: 40px;
+					line-height: 30px;
+				}
+			}
+		}
+	}
+	//
+	//  Mobile (styles-m.css)
+	//  
+
+	@media only screen and (max-width: @screen__xs) {
+		.home-page-owl-carousel{
+			.item{
+				p,
+				a {
+					font-size: 20px;
+					line-height: 15px;
+					margin-bottom: 5px;
+				}
+				a{
+					line-height: 0;
+				}
+			}
+		}
+	}
+}

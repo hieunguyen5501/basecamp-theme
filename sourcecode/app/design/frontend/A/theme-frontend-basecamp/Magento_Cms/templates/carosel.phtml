@@ -1,0 +1,36 @@
+<?php
+echo $block->getLayout()
+
+->createBlock('Magento\Cms\Block\Block')
+
+->setBlockId('home-page-carosel')
+
+->toHtml();
+
+?>
+
+
+<script>
+	require([
+		'jquery',
+		'owlCarousel'
+		], function ($) {
+			$(document).ready(function() {
+				var owl = $('.home-page-owl-carousel');
+				owl.owlCarousel({
+					items: 1,
+					loop: true,
+					autoplay: true,
+					autoplayTimeout: 1000,
+					autoplayHoverPause: true,
+					dots:false,
+					nav: true,
+					navText: [
+					"<i class='fa fa-caret-left'></i>",
+					"<i class='fa fa-caret-right'></i>"
+					],
+
+				});
+			});
+		});
+	</script>
